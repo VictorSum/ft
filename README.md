@@ -1,6 +1,6 @@
 # Домашнее задание к занятию
 # "`Отказоустойчивость в облаке`"
-# `Островский Евгений`
+# `Виктор Сумской`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -146,9 +146,9 @@ resource "yandex_lb_target_group" "test-1" {
 }
 ```
 
-![ссылка на скриншот 1](https://github.com/joos-net/ft/blob/main/terr11.png)
+![ссылка на скриншот 1](https://github.com/VictorSum/ft/blob/main/terr11.png)
 
-![ссылка на скриншот 1](https://github.com/joos-net/ft/blob/main/terr12.png)
+![ссылка на скриншот 1](https://github.com/VictorSum/ft/blob/main/terr12.png)
 
 
 ---
@@ -285,9 +285,9 @@ resource "yandex_vpc_subnet" "subnet-1" {
 }
 ```
 
-![ссылка на скриншот 1](https://github.com/joos-net/ft/blob/main/terr21.png)
+![ссылка на скриншот 1](https://github.com/VictorSum/ft/blob/main/terr21.png)
 
-![ссылка на скриншот 1](https://github.com/joos-net/ft/blob/main/terr22.png)
+![ссылка на скриншот 1](https://github.com/VictorSum/ft/blob/main/terr22.png)
 
 
 ---
